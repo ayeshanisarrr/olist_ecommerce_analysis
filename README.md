@@ -98,7 +98,7 @@ Uses a CTE to classify each order as **Late** or **On Time** based on estimated 
 
 ---
 
-### Query 04 — Customer Segmentation by Spend
+### Query 04 - Customer Segmentation by Spend
 **File:** `04_customer_segmentation_by_spend.sql`
 
 Uses a CTE to calculate total spend per customer, then classifies each into:
@@ -165,7 +165,7 @@ Order volume followed the same trajectory, peaking at over **7,000 orders in a s
 
 ---
 
-### Finding 2 — Late Delivery Cuts Review Scores Nearly in Half
+### Finding 2 - Late Delivery Cuts Review Scores Nearly in Half
 
 ![Delivery & Customer Analysis](Delivery___Customer_Analysis.png)
 
@@ -178,7 +178,7 @@ Late deliveries result in a **40% drop in average customer review score**   from
 
 ---
 
-### Finding 3 — Low Value Customers Generate the Most Revenue in Total
+### Finding 3 - Low Value Customers Generate the Most Revenue in Total
 
 | Customer Segment | Segment Revenue |
 |---|---|
@@ -206,7 +206,7 @@ Health & Beauty leads all categories by a significant margin   nearly 20% ahead 
 
 ---
 
-### Finding 5 — São Paulo Dominates Seller Geography
+### Finding 5 - São Paulo Dominates Seller Geography
 
 | Seller City | Revenue |
 |---|---|
@@ -221,21 +221,21 @@ São Paulo sellers generate over **4x the revenue** of the next highest city. Th
 
 ## Tableau Dashboards
 
-### Dashboard 1 — Executive Overview
+### Dashboard 1 - Executive Overview
 ![Executive Overview](Executive_Overview.png)
 
 Top-level KPIs and monthly revenue + order growth trend from 2016–2018.
 
 ---
 
-### Dashboard 2 — Delivery & Customer Analysis
+### Dashboard 2 - Delivery & Customer Analysis
 ![Delivery & Customer Analysis](Delivery_&_Customer_Analysis.png)
 
 Delivery status vs. review score comparison, and revenue breakdown by customer segment.
 
 ---
 
-### Dashboard 3 — Product & Seller Performance
+### Dashboard 3 - Product & Seller Performance
 ![Product & Seller Performance](Product_&_Seller_Performance.png)
 
 Top 10 product categories by revenue and top 10 seller cities by revenue.
