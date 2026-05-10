@@ -167,7 +167,7 @@ Order volume followed the same trajectory, peaking at over **7,000 orders in a s
 
 ### Finding 2 - Late Delivery Cuts Review Scores Nearly in Half
 
-![Delivery & Customer Analysis](Delivery___Customer_Analysis.png)
+![Delivery & Customer Analysis](Delivery_&_Customer_Analysis.png)
 
 | Delivery Status | Avg Review Score |
 |---|---|
@@ -192,7 +192,7 @@ Despite spending the least per transaction, the Low Value segment generates **do
 
 ### Finding 4 - Health & Beauty Is the Top Revenue Category
 
-![Product & Seller Performance](Product___Seller_Performance.png)
+![Product & Seller Performance](Product_&_Seller_Performance.png)
 
 | Rank | Category | Revenue |
 |---|---|---|
@@ -251,7 +251,7 @@ A 40% drop in review score for late orders is severe. Olist should audit the sel
 High and Mid Value customers each generate R$3.3M but in far fewer transactions. Losing even a fraction of these customers is costly. Loyalty programs, priority shipping, or personalized offers should be targeted specifically at customers spending R$200+.
 
 **3. Invest in the Low Value Segment at Scale**
-Low-value customers drive R$6.6M in revenue through volume. The strategy here is not to push them to spend more it is to reduce churn and keep acquisition costs low. Email re-engagement campaigns and low friction repeat purchase experiences are the right tools.
+Low value customers drive R$6.6M in revenue through volume. The strategy here is not to push them to spend more it is to reduce churn and keep acquisition costs low. Email re-engagement campaigns and low friction repeat purchase experiences are the right tools.
 
 **4. Double Down on Health & Beauty**
 As the top revenue category with natural repeat purchase behavior, Health & Beauty deserves dedicated seller recruitment, promotional investment, and category expansion. It is the strongest product market fit signal in the dataset.
@@ -261,23 +261,6 @@ With São Paulo generating 4x the next city's revenue, the business has a geogra
 
 ---
 
-## Files in This Repository
-
-```
-├── 01_executive_kpi_summary.sql
-├── 02_monthly_revenue_order_growth.sql
-├── 03_late_delivery_review_impact.sql
-├── 04_customer_segmentation_by_spend.sql
-├── 05_customer_segment_revenue_contribution.sql
-├── 06_seller_performance_ranking.sql
-├── 07_top_categories_by_revenue.sql
-├── 08_payment_method_breakdown.sql
-├── Olist_E-Commerce_End_to_End_Business_Performance_Analysis.twbx
-├── Executive_Overview.png
-├── Delivery___Customer_Analysis.png
-├── Product___Seller_Performance.png
-└── README.md
-```
 
 ---
 
