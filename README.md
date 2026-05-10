@@ -20,7 +20,7 @@
 
 This project performs a full end to end business performance analysis on the **Olist Brazilian E-Commerce dataset**  one of the most comprehensive real world e-commerce datasets publicly available. 
 
-Using **SQL Server** for data extraction and analysis, and **Tableau** for visualization, this project covers revenue growth, customer behavior, delivery performance, seller rankings, and product category insights across a two year period (2016–2018).
+Using **SQL Server** for data extraction and analysis, and **Tableau** for visualization, this project covers revenue growth, customer behavior, delivery performance, seller rankings, and product category insights across a two year period (2016-2018).
 
 ---
 
