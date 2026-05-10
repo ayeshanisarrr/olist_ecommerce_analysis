@@ -44,7 +44,7 @@ Using **SQL Server** for data extraction and analysis, and **Tableau** for visua
 | **Visualization** | Tableau Desktop |
 | **Dataset** | [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |
 | **License** | CC BY-NC-SA 4.0 |
-| **Data Period** | September 2016 — August 2018 |
+| **Data Period** | September 2016 -  August 2018 |
 
 ---
 
