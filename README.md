@@ -218,8 +218,6 @@ Health & Beauty leads all categories by a significant margin   nearly 20% ahead 
 São Paulo sellers generate over **4x the revenue** of the next highest city. The seller base is heavily concentrated geographically, which creates both supply chain efficiency in São Paulo and a risk of over-dependence on a single region.
 
 ---
-
-
 ---
 
 ## Recommendations
