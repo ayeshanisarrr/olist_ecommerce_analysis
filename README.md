@@ -238,9 +238,6 @@ With São Paulo generating 4x the next city's revenue, the business has a geogra
 
 ---
 
-
----
-
 ## About
 
 **Analyst:** Ayesha Nisar  
