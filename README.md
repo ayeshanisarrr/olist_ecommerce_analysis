@@ -159,7 +159,7 @@ Analyzes how customers pay  by payment type, total transaction value, and averag
 
 ![Executive Overview](Executive_Overview.png)
 
-Revenue grew from near zero in September 2016 to a peak of approximately **R$1M per month by November 2017**, driven by a major surge in order volume in Q4 2017  consistent with Black Friday / holiday season demand. Revenue then stabilized between R$750K–R$1M monthly through mid-2018.
+Revenue grew from near zero in September 2016 to a peak of approximately **R$1M per month by November 2017**, driven by a major surge in order volume in Q4 2017  consistent with Black Friday / holiday season demand. Revenue then stabilized between R$750K-R$1M monthly through mid-2018.
 
 Order volume followed the same trajectory, peaking at over **7,000 orders in a single month**. This consistent upward trend confirms strong business growth across the two year period.
 
