@@ -230,8 +230,7 @@ High and Mid Value customers each generate R$3.3M but in far fewer transactions.
 **3. Invest in the Low Value Segment at Scale**
 Low value customers drive R$6.6M in revenue through volume. The strategy here is not to push them to spend more it is to reduce churn and keep acquisition costs low. Email re-engagement campaigns and low friction repeat purchase experiences are the right tools.
 
-**4. Double Down on Health & Beauty**
-As the top revenue category with natural repeat purchase behavior, Health & Beauty deserves dedicated seller recruitment, promotional investment, and category expansion. It is the strongest product market fit signal in the dataset.
+**4. Prioritise Health & Beauty** As the top revenue category (R$1.23M) with an average review score of 4.19, Health & Beauty is a reasonable focus for seller recruitment and promotion. Watches & Gifts is only 5.9% behind, so it deserves attention too.
 
 **5. Expand the Seller Base Outside São Paulo**
 With São Paulo generating 4x the next city's revenue, the business has a geographic concentration risk. Recruiting quality sellers from Rio de Janeiro, Curitiba, and other cities would diversify supply and potentially improve delivery times for customers outside the São Paulo region.
