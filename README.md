@@ -210,10 +210,12 @@ Health & Beauty leads all categories at R$1,228,987, 5.9% ahead of second-place 
 
 | Seller City | Revenue |
 |---|---|
-| São Paulo | R$2,616,179 |
-| Ibitinga | R$618,092 |
-| Curitiba | R$460,754 |
-| Rio de Janeiro | R$339,225 |
+| São Paulo | R$2,659,175 |
+| Ibitinga | R$614,836 |
+| Curitiba | R$458,812 |
+| Rio de Janeiro | R$342,342 |
+
+City names in the seller data are inconsistent (for example "sao paulo", "sao  paulo" and "sp"), so São Paulo's spellings were merged before totaling.
 
 São Paulo sellers generate over **4x the revenue** of the next highest city. The seller base is heavily concentrated geographically, which creates both supply chain efficiency in São Paulo and a risk of over-dependence on a single region.
 
