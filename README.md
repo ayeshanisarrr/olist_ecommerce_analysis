@@ -197,12 +197,12 @@ Despite spending the least per transaction, the Low Value segment generates **do
 | Rank | Category | Revenue |
 |---|---|---|
 | 1 | Health & Beauty | R$1,228,987 |
-| 2 | Watches & Gifts | — |
+| 2 | Watches & Gifts | R$1,160,290 |
 | 3 | Bed, Bath & Table | R$1,027,334 |
-| 4 | Sports & Leisure | — |
+| 4 | Sports & Leisure | R$954,297 |
 | 5 | Computers & Accessories | R$892,280 |
 
-Health & Beauty leads all categories by a significant margin   nearly 20% ahead of the third place category. This category also tends to have repeat purchase behavior, making it strategically valuable beyond its raw revenue figure.
+Health & Beauty leads all categories at R$1,228,987, 5.9% ahead of second-place Watches & Gifts (R$1,160,290) and nearly 20% ahead of third-place Bed, Bath & Table.
 
 ---
 
