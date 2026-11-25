@@ -149,8 +149,8 @@ Analyzes how customers pay  by payment type, total transaction value, and averag
 | Metric | Value |
 |---|---|
 | Total Revenue | **R$13.2M** |
-| Total Orders | **99,441** |
-| Total Customers | **96,096** |
+| Total Orders | **96,478** |
+| Total Customers | **93,358** |
 | Average Order Value | **R$137** |
 
 ---
