@@ -140,6 +140,14 @@ Joins product, order, and review tables to rank product categories by total reve
 
 Analyzes how customers pay  by payment type, total transaction value, and average installments used.
 
+
+### Query 09 - Revenue by Seller City
+
+**File:** `09_revenue_by_city.sql`
+
+Merges the inconsistent São Paulo spellings in the seller data, then totals delivered-order item revenue (excluding freight) by seller city and lists the top 10.
+
+---
 ---
 
 ## Key Findings
@@ -165,7 +173,7 @@ Order volume followed the same trajectory, peaking at over **7,000 orders in a s
 
 ---
 
-### Finding 2 - Late Delivery Cuts Review Scores Nearly in Half
+### Finding 2 - Late Orders Average a Much Lower Review Score
 
 ![Delivery & Customer Analysis](Delivery_&_Customer_Analysis.png)
 
@@ -174,7 +182,7 @@ Order volume followed the same trajectory, peaking at over **7,000 orders in a s
 | On Time | **4.3 / 5** |
 | Late | **2.6 / 5** |
 
-Late deliveries result in a **40% drop in average customer review score**   from 4.3 down to 2.6. This is the single clearest driver of customer dissatisfaction in the entire dataset. Delivery performance is not a logistics issue; it is a customer retention issue.
+8% of delivered orders (7,701 of 96,359) arrived late. Late orders averaged a review score of 2.6, about 40% lower than the 4.3 average for on-time orders. Reviews measure satisfaction, so delays are strongly linked to dissatisfaction. This analysis did not test other possible drivers.
 
 ---
 
@@ -186,8 +194,7 @@ Late deliveries result in a **40% drop in average customer review score**   from
 | Mid Value (R$200–R$499) | R$3.3M |
 | **Low Value (under R$200)** | **R$6.6M** |
 
-Despite spending the least per transaction, the Low Value segment generates **double the revenue** of either the High or Mid Value segments combined. This is purely a volume effect — there are far more low-value customers than high value ones. The business currently runs on breadth, not depth.
-
+The Low Value segment generated R$6.6M, about double the revenue of each of the other two segments (R$3.3M each) and about equal to both combined.
 ---
 
 ### Finding 4 - Health & Beauty Is the Top Revenue Category
@@ -215,7 +222,7 @@ Health & Beauty leads all categories at R$1,228,987, 5.9% ahead of second-place 
 | Curitiba | R$458,812 |
 | Rio de Janeiro | R$342,342 |
 
-City names in the seller data are inconsistent (for example "sao paulo", "sao  paulo" and "sp"), so São Paulo's spellings were merged before totaling.
+City names in the seller data are inconsistent (for example "sao paulo", "sao paluo" and "sp"), so the São Paulo spellings were merged before totaling.
 
 São Paulo sellers generate over **4x the revenue** of the next highest city. The seller base is heavily concentrated geographically, which creates both supply chain efficiency in São Paulo and a risk of over-dependence on a single region.
 
@@ -230,7 +237,7 @@ A 40% drop in review score for late orders is severe. Olist should audit the sel
 High and Mid Value customers each generate R$3.3M but in far fewer transactions. Losing even a fraction of these customers is costly. Loyalty programs, priority shipping, or personalized offers should be targeted specifically at customers spending R$200+.
 
 **3. Invest in the Low Value Segment at Scale**
-Low value customers drive R$6.6M in revenue through volume. The strategy here is not to push them to spend more it is to reduce churn and keep acquisition costs low. Email re-engagement campaigns and low friction repeat purchase experiences are the right tools.
+Low value customers drive R$6.6M in revenue through volume. The strategy here is not to push them to spend more it is to reduce churn and keep acquisition costs low. Re-engagement campaigns are one option worth testing.
 
 **4. Prioritise Health & Beauty** As the top revenue category (R$1.23M) with an average review score of 4.19, Health & Beauty is a reasonable focus for seller recruitment and promotion. Watches & Gifts is only 5.9% behind, so it deserves attention too.
 
