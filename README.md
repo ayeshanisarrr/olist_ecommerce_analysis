@@ -10,9 +10,8 @@
 4. [Database Schema](#database-schema)
 5. [SQL Analysis](#sql-analysis)
 6. [Key Findings](#key-findings)
-7. [Tableau Dashboards](#tableau-dashboards)
-8. [Recommendations](#recommendations)
-9. [Files in This Repository](#files-in-this-repository)
+7. [Recommendations](#recommendations)
+8. [Files in This Repository](#files-in-this-repository)
 
 ---
 
