@@ -103,7 +103,7 @@ Uses a CTE to classify each order as **Late** or **On Time** based on estimated 
 
 Uses a CTE to calculate total spend per customer, then classifies each into:
 - **High Value** -  R$500+
-- **Mid Value** - R$200–R$499
+- **Mid Value** - R$200-R$499
 - **Low Value** -  under R$200
 
 ---
