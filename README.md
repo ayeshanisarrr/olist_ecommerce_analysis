@@ -245,7 +245,13 @@ Low value customers drive R$6.6M in revenue through volume. The strategy here is
 With São Paulo generating 4x the next city's revenue, the business has a geographic concentration risk. Recruiting quality sellers from Rio de Janeiro, Curitiba, and other cities would diversify supply and potentially improve delivery times for customers outside the São Paulo region.
 
 ---
+## Files in This Repository
 
+- `01_executive_kpi_summary.sql` to `09_revenue_by_city.sql`: the SQL queries
+- `Executive_Overview.png`, `Delivery_&_Customer_Analysis.png`, `Product_&_Seller_Performance.png`: dashboard screenshots
+- `Olist E- Commerce_ End to End Business Performance Analysis.twbx`: the Tableau workbook
+
+--- 
 ## About
 
 **Analyst:** Ayesha Nisar  
